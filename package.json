@@ -1,5 +1,5 @@
 {
-  "name": "riverside_js_workshop_app_template",
+  "name": "Riverside JS Workshop - Development Template",
   "version": "1.0.0",
   "description": "An application file template the uses grunt as a task runner",
   "main": "Gruntfile.js",
