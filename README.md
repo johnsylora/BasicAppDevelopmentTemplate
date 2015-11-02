@@ -6,4 +6,4 @@ the code by search for the string:
 
 //*** INSERT SNIPPET ***//
 
-The docs folder also contains a very rough tutorial on setting up your machine and working with Grunt.  This document cribs from the online documentation at [Gruntjs.com](https://gruntjs.com)
+The docs folder also contains a very rough tutorial on setting up your machine and working with Grunt.  This document cribs from the online documentation at [Gruntjs.com](http://gruntjs.com)
